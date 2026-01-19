@@ -8,13 +8,12 @@
     :root{
         --colornoirprofond:#1d2127;
         --colornoirinferieur:#212529;
+        --red:#d81212;
     }
 body{
     background-color: var(--colornoirprofond);
 }
  
-
-
 
 .container .top{
     width: 100%;
